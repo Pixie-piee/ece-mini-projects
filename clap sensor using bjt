@@ -1,0 +1,11 @@
+# Clap Sensor using BJT
+
+A simple sound-activated switch circuit using a BJT.
+
+## Concepts Used
+- BJT as a switch
+- Amplification
+- Sound sensing using microphone
+
+## Status
+- Circuit designed and tested
