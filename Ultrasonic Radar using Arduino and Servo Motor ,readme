@@ -1,0 +1,26 @@
+# Ultrasonic Radar using Arduino and Servo Motor 
+
+A basic radar-like system that scans the surrounding area using an
+ultrasonic sensor mounted on a servo motor and displays distance-based
+object detection.
+
+##  Components Used
+- Arduino Uno
+- Ultrasonic Sensor (HC-SR04)
+- Servo Motor
+- Breadboard & jumper wires
+
+##  Working Principle
+The servo motor rotates the ultrasonic sensor across a fixed angle range.
+At each angle, the ultrasonic sensor measures distance to nearby objects,
+creating a simple radar-style scanning effect.
+
+##  Concepts Demonstrated
+- Ultrasonic distance measurement
+- Servo motor control using PWM
+- Microcontroller interfacing
+- Embedded system basics
+
+##  Status
+- Circuit implemented and tested
+- Basic scanning functionality achieved
